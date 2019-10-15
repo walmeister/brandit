@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is my practice code for getting the Driftimg Ruby on youtube to work: 
+Episode #118 - Ruby on Rails Tips and Tricks
+https://www.youtube.com/watch?v=j9bYzwqNHF0
 
-Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
