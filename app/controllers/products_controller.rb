@@ -5,7 +5,7 @@ class ProductsController < ApplicationController
   # GET /products
   # GET /products.json
   def index
-    @brand = Brand.includes(:product).find(params[:brand_id])
+    @brand = Brand.includes(:products).find(params[:brand_id])
     @products = @brand.products
   end
 
